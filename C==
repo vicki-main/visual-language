@@ -5,7 +5,7 @@ int main() {
     char operation;
     double num1, num2;
 
-    cout << "Введите операцию (+, -, *, /): ";
+    cout << "Введите операцию! (+, -, *, /): ";
     cin >> operation;
 
     cout << "Введите два числа: ";
