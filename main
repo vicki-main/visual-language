@@ -1,6 +1,7 @@
 from datetime import datetime
 
 
+
 # Установим дату 2 декабря 2023 года
 start_date = datetime(2023, 12, 2)
 
