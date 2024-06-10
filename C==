@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-........2542545245242
+.......
     char operation;
     double num1, num2;
 
