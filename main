@@ -10,8 +10,4 @@ current_date = datetime.now()
 delta = current_date - start_date
 
 # Выведем количество прошедших дней
-print("Прошло дней с 2 декабря 2023 года :", delta.days)
-
-
-
-
+print("Прошло дней с 2 декабря 2023 года :", delta.days)...
